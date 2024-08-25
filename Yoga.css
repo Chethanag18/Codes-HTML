@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background1 {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    background-size: cover;
+    height:;
+}
+
+.heading1 {
+    color: #253263;
+    font-family: "Roboto";
+    padding: 35px;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+}
+
+.image1 {
+
+    height: 450px;
+    width: 400px;
+}
+
+.align {
+    padding: 50px;
+}
+
+.para1 {
+    color: #323f4b;
+    font-size: 23px;
+    text-align: center;
+    padding: 10px;
+    font-family: "Roboto";
+}
+
+.button1 {
+    color: #fad693;
+    font-family: "Roboto";
+    background-color: #253263;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+
+.background3 {
+    background-color: #ffedcb;
+    background-size: cover;
+    height:;
+
+}
+
+.image2 {
+    height: 400px;
+    width: 400px;
+}
+
+.heading2 {
+    color: #253263;
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+    font-family: "Roboto";
+}
+
+.bg1 {
+    background-color: #ffe2ab;
+    background-size: cover;
+    height: 150px;
+    width: 600px;
+    margin: 25px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.img3 {
+    margin: 20px;
+    height: 120px;
+    width: 120px;
+}
+
+.head1 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 25px;
+
+}
+
+.para2 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 17px;
+}
+
+.align1 {
+    padding: 10px;
+}
